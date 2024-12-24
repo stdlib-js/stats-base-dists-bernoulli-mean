@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-18)
+## Unreleased (2024-12-24)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`b7867cb`](https://github.com/stdlib-js/stdlib/commit/b7867cbb3a4fc453e19203794402c36f19b264fd) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`5019fab`](https://github.com/stdlib-js/stdlib/commit/5019fab885f33507350e6b7ec6a61e1e283d6249) - **feat:** add C implementation for `stats/base/dists/bernoulli/mean` [(#3451)](https://github.com/stdlib-js/stdlib/pull/3451) _(by Vivek maurya, Athan Reines, stdlib-bot)_
 
