@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
+## Unreleased (2025-04-01)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`975de6a`](https://github.com/stdlib-js/stdlib/commit/975de6ac8cf9349a047a39921ddf3f29a9b0d77e) - **docs:** replace manual `for` loop in examples [(#6280)](https://github.com/stdlib-js/stdlib/pull/6280) _(by Karan Anand)_
 -   [`802775e`](https://github.com/stdlib-js/stdlib/commit/802775ea028fb2a42041611187b6373b49f5f397) - **bench:** refactor random number generation in `stats/base/dists/bernoulli` [(#4775)](https://github.com/stdlib-js/stdlib/pull/4775) _(by Karan Anand, Athan Reines)_
 -   [`b7867cb`](https://github.com/stdlib-js/stdlib/commit/b7867cbb3a4fc453e19203794402c36f19b264fd) - **chore:** minor clean-up _(by Philipp Burckhardt)_
